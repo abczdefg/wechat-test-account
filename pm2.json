@@ -1,0 +1,12 @@
+{
+  "apps":[
+    {
+      "name": "wechat-test-account",
+      "cwd": "./",
+      "script": "index.js",
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}
